@@ -1,0 +1,1 @@
+{"version":"1","serial":"TAB-003","procesador":"Exynos 1380","ram_gb":8,"almacenamiento_gb":128,"pantalla_pulgadas":10.9,"puertos":["USB-C"],"conectividad":["Wi-Fi","5G","Bluetooth"]}

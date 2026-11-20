@@ -1,0 +1,12 @@
+OK: 15 pruebas de reglas de negocio.
+OK insert equipo válido
+OK serie duplicada
+OK estado no permitido
+OK Home Office sin tarea
+OK prestado sin legajo
+OK FK historial/serie
+OK movimiento válido con FK
+OK QR real TAB-001
+OK QR real TAB-002
+OK QR real TAB-003
+VERIFICACIONES AUXILIARES FINALIZADAS

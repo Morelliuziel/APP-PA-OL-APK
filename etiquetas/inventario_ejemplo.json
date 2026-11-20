@@ -1,0 +1,5 @@
+[
+  {"version":"1","serial":"TAB-001","procesador":"Snapdragon 680","ram_gb":4,"almacenamiento_gb":64,"pantalla_pulgadas":10.1,"puertos":["USB-C","Jack 3.5"],"conectividad":["Wi-Fi","Bluetooth"]},
+  {"version":"1","serial":"TAB-002","procesador":"MediaTek Helio G99","ram_gb":6,"almacenamiento_gb":128,"pantalla_pulgadas":11.0,"puertos":["USB-C"],"conectividad":["Wi-Fi","4G","Bluetooth"]},
+  {"version":"1","serial":"TAB-003","procesador":"Exynos 1380","ram_gb":8,"almacenamiento_gb":128,"pantalla_pulgadas":10.9,"puertos":["USB-C"],"conectividad":["Wi-Fi","5G","Bluetooth"]}
+]
